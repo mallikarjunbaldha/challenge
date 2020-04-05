@@ -24,6 +24,8 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 
+//this is the challenge program given for an interview
+
 public class GiveIndia_Selenium {
 	
 		WebDriver driver;
